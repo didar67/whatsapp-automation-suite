@@ -1,0 +1,8 @@
+use_api: true   # true = use WhatsApp Buisness API ; false = fallback to pywhatkit
+default_message_file: message.txt
+default_contacts_file: contacts.txt
+log_file: logs/send.log_file
+wait_time: 15
+send_hour: 22
+send_minute: 45
+alert_email: you@example.com   # for alerting 
